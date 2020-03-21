@@ -42,12 +42,9 @@ Edit this document to include your answers after each question. Make sure to lea
 
 4. Describe the four rules of the 'this' keyword.
 
-    >Window/Global Object binding - this refers to the global object. In web browsers the window and global object are the same.
-    
-    Implicit binding - this refers to the object that is calling a function.
-    
-    New binding - this refers to the object being created by a constructor.
-    
+    >Window/Global Object binding - this refers to the global object. In web browsers the window and global object are the same.    
+    Implicit binding - this refers to the object that is calling a function.    
+    New binding - this refers to the object being created by a constructor.    
     Explicit binding - this is being explicitly defined by using methods such as call or apply.
 
 5. Why do we need super() in an extended class?
