@@ -30,26 +30,29 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Describe the biggest difference between `.forEach` & `.map`.
 
-    The biggest difference is that .forEach doesnt retrun a new array, it only has the potential to mutate an existing one whereas .map returns a new array.
+    >The biggest difference is that .forEach doesnt retrun a new array, it only has the potential to mutate an existing one whereas .map returns a new array.
 
 2. What is the difference between a function and a method?
 
-    Functions and methods are similar in that they are both reusable chunks of code. The difference is that a method is usually tied to and used by classes, while a function can be used without a class.
+    >Functions and methods are similar in that they are both reusable chunks of code. The difference is that a method is usually tied to and used by classes, while a function can be used without a class.
 
 3. What is closure?
 
-    Closures give functions access to resources outside of its scope.
+    >Closures give functions access to resources outside of its scope.
 
 4. Describe the four rules of the 'this' keyword.
 
-    Window/Global Object binding - this refers to the global object. In web browsers the window and global object are the same.
-    Implicit binding - this refers to the object that is calling a function.
-    New binding - this refers to the object being created by a constructor.
-    Explicit binding - this is being explicitly defined by using methods such as call or apply.
+    >Window/Global Object binding - this refers to the global object. In web browsers the window and global object are the same.
+    
+    >Implicit binding - this refers to the object that is calling a function.
+    
+    >New binding - this refers to the object being created by a constructor.
+    
+    >Explicit binding - this is being explicitly defined by using methods such as call or apply.
 
 5. Why do we need super() in an extended class?
 
-    super() lets us copy the data from a parent class.
+    >super() lets us copy the data from a parent class.
 
 ## Project Set up
 
@@ -66,9 +69,9 @@ Follow these steps to set up and work on your project:
 
 Follow these steps for completing your project:
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
-- [ ] Add your team lead as a Reviewer on the Pull-request
-- [ ] TL then will count the HW as done by  merging the branch back into master.
+- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
+- [x] Add your team lead as a Reviewer on the Pull-request
+- [x] TL then will count the HW as done by  merging the branch back into master.
 
 
 ## Minimum Viable Product
@@ -91,7 +94,7 @@ Create constructors, bind methods, and create cuboids in this prototypes challen
 
 ## Task 4: Classes
 Once you have completed the prototypes challenge, it's time to convert all your hard work into classes.
-* [ ] Use the [classes.js](challenges/classes.js) link to get started. Read the instructions carefully!
+* [x] Use the [classes.js](challenges/classes.js) link to get started. Read the instructions carefully!
 
 In your solutions, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 
